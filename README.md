@@ -17,7 +17,7 @@
 
 - 🎓 I have a master's degree in Computer Science (networks & distributed systems). Obtained from the University of Constantine2, Algeria.
 
-- 🔭 I’m currently studying and training to become a Full-Stack Software Developer at [Microverse.](https://github.com/microverseinc)
+- 👩‍💻 I’m currently studying and training to become a Full-Stack Software Developer at [Microverse.](https://github.com/microverseinc)
 
 - 🌱 I’m currently learning how to implement website designs using HTML5, CSS, CSS frameworks, and JavaScript.
 
@@ -29,4 +29,12 @@
   - LinkedIn: [Manel Hammouche](https://www.linkedin.com/in/manel-hammouche/)
 - ⚡ Fun fact: **the world's first programmer was a woman (Ada Lovelace)**.
 
-- 😄 Pronouns: she/her.
+- 👩 Pronouns: she/her.
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ha-manel&show_icons=true&theme=nightowl">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ha-manel&layout=compact&theme=nightowl">
+</div>
+
