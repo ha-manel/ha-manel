@@ -33,8 +33,8 @@
 
 ---
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=ha-manel&show_icons=true&theme=nightowl">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ha-manel&layout=compact&theme=nightowl">
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ha-manel&show_icons=true&theme=nightowl">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ha-manel&layout=compact&theme=nightowl">
 </div>
 
