@@ -33,8 +33,10 @@
 
 ---
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ha-manel&show_icons=true&theme=nightowl">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ha-manel&layout=compact&theme=nightowl">
-</div>
+  <p align="center">
+   <a href="https://github.com/ha-manel">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ha-manel&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ha-manel&show_icons=true&theme=nightowl&layout=compact"/>
+  </a>
+</p>
 
