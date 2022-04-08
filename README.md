@@ -48,6 +48,7 @@
   <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ha-manel&show_icons=true&theme=nightowl&layout=compact"/>
 </div>
 
+<h3>Weekly Stats</h3>
 <!--START_SECTION:waka-->
 
 ```text
