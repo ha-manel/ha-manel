@@ -26,8 +26,7 @@
 ### 📫 Reach me on:
 
 <p align="left">
-&nbsp; &nbsp; &nbsp; &nbsp; <a href="manelhammouche3@gmail.com" target="_blank"><img align="center" src="./images/email.png" alt="email" width="35" /></a> &nbsp;
-<a href="https://twitter.com/ha_manel_" target="_blank"><img align="center" src="./images/twitter.png" alt="twitter" width="35" /></a> &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://twitter.com/ha_manel_" target="_blank"><img align="center" src="./images/twitter.png" alt="twitter" width="35" /></a> &nbsp;
 <a href="https://www.linkedin.com/in/manel-hammouche/" target="_blank"><img align="center" src="./images/linkedin.png" alt="linkedin" width="35" /></a> &nbsp;
 <a href="https://dev.to/hamanel" target="_blank"><img align="center" src="./images/dev.png" alt="dev community" width="35" /></a>
 </p>
