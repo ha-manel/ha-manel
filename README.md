@@ -25,7 +25,7 @@
 
 ### 📫 Reach me on:
 
-[<img src="./images/email.png">](manelhammouche3@gmail.com) [<img src="./images/twitter.png">](https://twitter.com/ha_manel_)[<img src="./images/linkedin.png">](https://www.linkedin.com/in/manel-hammouche/) [<img src="./images/dev.png">](https://dev.to/hamanel)
+[<img height="40" src="./images/email.png">](manelhammouche3@gmail.com) [<img height="40" src="./images/twitter.png">](https://twitter.com/ha_manel_)[<img height="40" src="./images/linkedin.png">](https://www.linkedin.com/in/manel-hammouche/) [<img height="40" src="./images/dev.png">](https://dev.to/hamanel)
 
 - ⚡ Fun fact: **the world's first programmer was a woman (Ada Lovelace)**.
 
@@ -39,6 +39,5 @@
 <div >
   <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ha-manel&show_icons=true&theme=nightowl"/>
   <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ha-manel&show_icons=true&theme=nightowl&layout=compact"/>
-  ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=ha-manel&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
-<details>
 </div>
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=ha-manel&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
