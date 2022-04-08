@@ -25,19 +25,24 @@
 
 ### 📫 Reach me on:
 
-[<img height="40" src="./images/email.png">](manelhammouche3@gmail.com) [<img height="40" src="./images/twitter.png">](https://twitter.com/ha_manel_)[<img height="40" src="./images/linkedin.png">](https://www.linkedin.com/in/manel-hammouche/) [<img height="40" src="./images/dev.png">](https://dev.to/hamanel)
+<p align="left">
+&nbsp; &nbsp; &nbsp; &nbsp; <a href="manelhammouche3@gmail.com" target="blank"><img align="center" src="./images/email.png" alt="email" width="35" /></a> &nbsp;
+<a href="https://twitter.com/ha_manel_" target="blank"><img align="center" src="./images/twitter.png" alt="twitter" width="35" /></a> &nbsp;
+<a href="https://www.linkedin.com/in/manel-hammouche/" target="blank"><img align="center" src="./images/linkedin.png" alt="linkedin" width="35" /></a> &nbsp;
+<a href="https://dev.to/hamanel" target="blank"><img align="center" src="./images/dev.png" alt="dev community" width="35" /></a>
+</p>
 
 - ⚡ Fun fact: **the world's first programmer was a woman (Ada Lovelace)**.
 
 - 👩 Pronouns: she/her.
 
----
+<h2 align="left">Skills</h2>
+<p align="left">
+  &nbsp; &nbsp; &nbsp; &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+</p>
 
-<h3 align="center">Skills</h3>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
----
+<h2 align ="left">Stats</h2>
 <div >
   <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ha-manel&show_icons=true&theme=nightowl"/>
   <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ha-manel&show_icons=true&theme=nightowl&layout=compact"/>
 </div>
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=ha-manel&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
