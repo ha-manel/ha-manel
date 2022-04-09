@@ -49,15 +49,6 @@
 </div>
 
 <h2>Weekly Coding Stats</h2>
-<!--START_SECTION:waka-->
 
-```text
-CSS          11 hrs 9 mins   ███████████░░░░░░░░░░░░░░   44.10 %
-JavaScript   10 hrs 23 mins  ██████████▒░░░░░░░░░░░░░░   41.07 %
-HTML         3 hrs 13 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.76 %
-Markdown     17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-Git Config   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-YAML         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-```
 
-<!--END_SECTION:waka-->
+[![manel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ha_manel&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
