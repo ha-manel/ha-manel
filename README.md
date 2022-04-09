@@ -17,7 +17,7 @@
 
 - 🎓 I have a **master's degree** in Computer Science (networks & distributed systems). Obtained from the University of Constantine2, Algeria.
 
-- 👩‍💻 I’m currently studying and training to become a **Full-Stack Software Developer** at [Microverse.](https://github.com/microverseinc)
+- 👩‍💻 I’m currently studying and training to become a **Full-Stack Software Developer** in a remote and multicultural environment at [Microverse.](https://github.com/microverseinc)
 
 - 🌱 I’m currently learning how to **create websites** using **HTML5, CSS, CSS frameworks, and JavaScript**.
 
