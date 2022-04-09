@@ -19,7 +19,7 @@
 
 - 👩‍💻 I’m currently studying and training to become a **Full-Stack Software Developer** at [Microverse.](https://github.com/microverseinc)
 
-- 🌱 I’m currently learning how to **implement website designs** using **HTML5, CSS, CSS frameworks, and JavaScript**.
+- 🌱 I’m currently learning how to **create websites** using **HTML5, CSS, CSS frameworks, and JavaScript**.
 
 - 💻 All **my projects** are available [here.](https://github.com/ha-manel?tab=repositories)
 
