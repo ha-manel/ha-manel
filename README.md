@@ -8,7 +8,6 @@
 <div align="center">
   <img src="https://badges.pufler.dev/visits/ha-manel/ha-manel?color=3f37c9">
   <img src="https://badges.pufler.dev/repos/ha-manel?color=3f37c9">
-  <img src="https://badges.pufler.dev/commits/monthly/ha-manel?color=3f37c9">
   <a href = "https://commits.top/algeria.html" target="_blank">
 		<img src="https://ennsz4wdh58yl60.m.pipedream.net" alt="ha-manel" target="_blank"/> 
 	</a>
