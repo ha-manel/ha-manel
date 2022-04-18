@@ -44,6 +44,11 @@
   &nbsp; &nbsp; &nbsp; &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
 </p>
 
+<h2 align="left">Certificates & Licenses</h2>
+<p align="left">
+  &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/a4e97cb8-cbf4-4e53-beb3-7882f6e8947e#gs.xs1jdm" target="blank"><img src="./images/html-css-badge" width="40"></a> 
+</p>
+
 <h2 align ="left">GitHub Stats</h2>
 <div>
   <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ha-manel&show_icons=true&theme=nightowl"/>
