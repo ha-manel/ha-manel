@@ -46,7 +46,7 @@
 
 <h2 align="left">Certificates & Licenses</h2>
 <p align="left">
-  &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/a4e97cb8-cbf4-4e53-beb3-7882f6e8947e#gs.xs1jdm" target="blank"><img src="./images/html-css-badge.png" width="70"></a> 
+  &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/a4e97cb8-cbf4-4e53-beb3-7882f6e8947e#gs.xs1jdm" target="blank"><img src="./images/html-css-badge.png" width="80"></a> 
 </p>
 
 <h2 align ="left">GitHub Stats</h2>
