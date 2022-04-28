@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there👋, I'm Manel</h1>
 <h3 align="center">A computer scientist and a software developer from Algeria</h3>
 
-<p align="center">Currently, I am a remote student at Microverse studying to become a Full-Stack Developer. I have a great passion for learning languages and frameworks. In addition to that, I really enjoy designing websites and implementing those designs.</p>
+<p align="center">Currently, I am a remote student at Microverse training to become a Full-Stack Developer. I have a great passion for learning languages, frameworks and new technologies. In addition to that, I enjoy designing websites and bringing them to life with CSS.</p>
 
 ---
 
@@ -19,9 +19,9 @@
 
 - 🎓 I have a **master's degree** in Computer Science (networks & distributed systems). Obtained from the University of Constantine2, Algeria.
 
-- 👩‍💻 I’m currently studying and training to become a **Full-Stack Software Developer** in a remote and multicultural environment at [Microverse.](https://github.com/microverseinc)
+- 👩‍💻 I’m currently studying and training to become a **Full-Stack Software Developer** in a remote, collaborative and multicultural environment at [Microverse.](https://github.com/microverseinc)
 
-- 🌱 I’m currently learning how to **create websites** using **HTML5, CSS, CSS frameworks, and JavaScript**.
+- 🌱 I’m currently deepening my knowledge in JavaScript.
 
 - 💻 All **my projects** are available [here.](https://github.com/ha-manel?tab=repositories)
 
