@@ -53,7 +53,7 @@
 
 <h2 align ="left">GitHub Stats</h2>
 <div>
-  <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ha-manel&show_icons=true&theme=nightowl"/>
+  <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ha-manel&show_icons=true&theme=nightowl&count_private=true"/>
   <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ha-manel&show_icons=true&theme=nightowl&layout=compact"/>
 </div>
 
