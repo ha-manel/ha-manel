@@ -7,16 +7,16 @@
 
 <div align="center">
   <img src="https://badges.pufler.dev/visits/ha-manel/ha-manel?color=3f37c9">
-  <img src="https://badges.pufler.dev/repos/ha-manel?color=3f37c9">
   <a href = "https://commits.top/algeria.html" target="_blank">
 		<img src="https://ennsz4wdh58yl60.m.pipedream.net" alt="ha-manel" target="_blank"/> 
 	</a>
 </div>
 
 ---
-
-<img align="right" src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b76112be03f92de5e356ca9c83066f76d54710feb3b75&rid=giphy.gif&ct=g">
-
+<div align="center">
+	<img src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b76112be03f92de5e356ca9c83066f76d54710feb3b75&rid=giphy.gif&ct=g">
+</div>
+	
 - 🎓 I have a **master's degree** in Computer Science (networks & distributed systems). Obtained from the University of Constantine2, Algeria.
 
 - 👩‍💻 I’m currently studying and training to become a **Full-Stack Software Developer** in a remote, collaborative and multicultural environment at [Microverse.](https://github.com/microverseinc)
