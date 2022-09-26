@@ -21,7 +21,7 @@
 
 - 👩‍💻 I’m currently studying and training to become a **Full-Stack Software Developer** in a remote, collaborative and multicultural environment at [Microverse.](https://github.com/microverseinc)
 
-- 🌱 I’m currently learning Ruby and Databases.
+- 🌱 I’m currently working on side projects.
 
 - 💻 All **my projects** are available [here.](https://github.com/ha-manel?tab=repositories)
 
@@ -65,7 +65,7 @@
 
 <h2 align="left">Certificates & Licenses</h2>
 <p align="left">
-  &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/a4e97cb8-cbf4-4e53-beb3-7882f6e8947e#gs.xs1jdm" target="blank"><img src="./images/html-css-badge.png" width="80"></a> &nbsp; <a href="https://www.credential.net/541a98e8-077e-4012-99a1-4064e1f899ce#gs.1jpmti" target="blank"><img src="./images/js-badge.png" width="80"></a> &nbsp; <a href="https://www.credential.net/acfff22f-8454-49f9-94cc-412a45474831#gs.6nv43p" target="blank"><img src="./images/react-badge.png" width="80"></a> &nbsp; <a href="https://www.credential.net/e5eb4ffb-dd1c-4e11-806e-4471b975eb3e#gs.8ndmnv" target="blank"><img src="./images/ruby-badge.png" width="80"></a>
+  &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/a4e97cb8-cbf4-4e53-beb3-7882f6e8947e#gs.xs1jdm" target="blank"><img src="./images/html-css-badge.png" width="80"></a> &nbsp; <a href="https://www.credential.net/541a98e8-077e-4012-99a1-4064e1f899ce#gs.1jpmti" target="blank"><img src="./images/js-badge.png" width="80"></a> &nbsp; <a href="https://www.credential.net/acfff22f-8454-49f9-94cc-412a45474831#gs.6nv43p" target="blank"><img src="./images/react-badge.png" width="80"></a> &nbsp; <a href="https://www.credential.net/e5eb4ffb-dd1c-4e11-806e-4471b975eb3e#gs.8ndmnv" target="blank"><img src="./images/ruby-badge.png" width="80"></a> <a href="https://www.credential.net/523addae-8430-4be1-b42b-e96bddd8f3cd#gs.do1qdt" target="blank"><img src="./images/ror-badge.png" width="80"></a>
 </p>
 
 <h2 align ="left">GitHub Stats</h2>
