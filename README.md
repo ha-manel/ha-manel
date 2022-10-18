@@ -25,7 +25,7 @@
 
 - 💻 All **my projects** are available [here.](https://github.com/ha-manel?tab=repositories)
 
-### 🚀 Check out [my portfolio.](https://manel-portfolio.herokuapp.com/)
+### 🚀 Check out [my portfolio.](https://h-manel.me/)
 
 ### 📫 Reach me on:
 
