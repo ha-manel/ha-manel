@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there👋, I'm Manel</h1>
-<h3 align="center">A computer scientist and a software developer from Algeria</h3>
+<h3 align="center">A full-stack web developer and a computer scientist from Algeria</h3>
 
-<p align="center">Currently, I am a remote student at Microverse training to become a Full-Stack Developer. I have a great passion for learning languages, frameworks and new technologies. In addition to that, I enjoy designing websites and bringing them to life with CSS.</p>
+<p align="center">I have a great passion for learning languages, frameworks and new technologies. In addition to that, I enjoy designing websites and bringing them to life with various technologies.</p>
 
 ---
 
@@ -19,9 +19,9 @@
 	
 - 🎓 I have a **master's degree** in Computer Science (networks & distributed systems). Obtained from the University of Constantine2, Algeria.
 
-- 👩‍💻 I’m currently studying and training to become a **Full-Stack Software Developer** in a remote, collaborative and multicultural environment at [Microverse.](https://github.com/microverseinc)
+- 👩‍💻 I have a **Full-Stack Software Developement** certificate, obtained from [Microverse.](https://github.com/microverseinc)
 
-- 🌱 I’m currently working on side projects.
+- 🌱 I’m currently working on side projects and applying to jobs.
 
 - 💻 All **my projects** are available [here.](https://github.com/ha-manel?tab=repositories)
 
@@ -35,7 +35,7 @@
 <a href="https://dev.to/hamanel" target="_blank"><img align="center" src="./images/dev.png" alt="dev community" width="35" /></a>
 </p>
 
-- ✨ Interests: coding, reading books, cooking, art, video games.
+- ✨ Interests: coding, reading books, art, video games.
 
 - ⚡ Fun fact: **the world's first programmer was a woman (Ada Lovelace)**.
 
@@ -50,6 +50,7 @@
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/117447663-0fa16280-af3e-11eb-8677-bcf8e4f8e298.png" alt="CSS" title="CSS" />
 	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" alt="Sass" title="Sass" />
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/121402101-c89df700-c959-11eb-8b4a-bbadf9e84b30.png" alt="Bootstrap" title="Bootstrap" />
+	<img height="50" src="https://raw.githubusercontent.com/michaelkolesidis/tech-icons/3f4f5fbef9a8e5dae8dc9cab983472a9222993b9/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" title="Tailwind" />
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" />
 	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/jest.svg" alt="Jest" title="Jest" />
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/121302453-01a67f00-c8fa-11eb-8c86-2ee00734c9a8.png" alt="Postman" title="Postman" />
@@ -60,6 +61,8 @@
 	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" title="MySQL" />
 	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/firebase.svg" alt="Firebase" title="Firebase" />
 	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="Postgresql" title="Postgresql" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/192603745-7d34df9e-7756-4756-a539-6a61badf7a80.png" alt="Ruby" title="Ruby" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/192603748-3ac17112-3653-4257-80da-a57334b11411.png" alt="Ruby on Rails" title="Ruby on Rails" />
 </div>
 </p>
 
