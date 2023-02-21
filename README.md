@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there👋, I'm Manel</h1>
-<h3 align="center">A full-stack web developer and a computer scientist from Algeria</h3>
+<h3 align="center">A front-end web developer and a computer scientist from Algeria</h3>
 
 <p align="center">I have a great passion for learning languages, frameworks and new technologies. In addition to that, I enjoy designing websites and bringing them to life with various technologies.</p>
 
@@ -21,7 +21,7 @@
 
 - 👩‍💻 I have a **Full-Stack Software Developement** certificate, obtained from [Microverse.](https://github.com/microverseinc)
 
-- 🌱 I’m currently working on side projects and applying to jobs.
+- 🌱 I’m currently working at TrailerCentral as a Front-end Developer & Designer.
 
 - 💻 All **my projects** are available [here.](https://github.com/ha-manel?tab=repositories)
 
