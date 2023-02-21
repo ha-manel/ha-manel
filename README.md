@@ -16,12 +16,12 @@
 ---
 
 <img align="right" src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b76112be03f92de5e356ca9c83066f76d54710feb3b75&rid=giphy.gif&ct=g">
+
+- 🌱 I’m currently working at TrailerCentral as a Front-end Developer & Designer.
 	
 - 🎓 I have a **master's degree** in Computer Science (networks & distributed systems). Obtained from the University of Constantine2, Algeria.
 
 - 👩‍💻 I have a **Full-Stack Software Developement** certificate, obtained from [Microverse.](https://github.com/microverseinc)
-
-- 🌱 I’m currently working at TrailerCentral as a Front-end Developer & Designer.
 
 - 💻 All **my projects** are available [here.](https://github.com/ha-manel?tab=repositories)
 
