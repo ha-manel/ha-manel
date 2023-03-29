@@ -35,11 +35,8 @@
 <a href="https://dev.to/hamanel" target="_blank"><img align="center" src="./images/dev.png" alt="dev community" width="35" /></a>
 </p>
 
-- ✨ Interests: coding, reading books, art, video games.
+- ✨ Interests: coding, art, video games.
 
-- ⚡ Fun fact: **the world's first programmer was a woman (Ada Lovelace)**.
-
-- 👩 Pronouns: she/her.
 
 <h2 align="left">Skills</h2>
 <p align="left">
