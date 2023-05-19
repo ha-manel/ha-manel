@@ -8,9 +8,9 @@
 <div align="center">
   <! -- <img src="https://badges.pufler.dev/visits/ha-manel/ha-manel?color=3f37c9">
   <img src="https://komarev.com/ghpvc/?username=ha-manel&color=3f37c9">
-  <a href = "https://commits.top/algeria.html" target="_blank">
+ <!-- <a href = "https://commits.top/algeria.html" target="_blank">
 		<img src="https://ennsz4wdh58yl60.m.pipedream.net" alt="ha-manel" target="_blank"/> 
-	</a>
+	</a>-->
 </div>
 
 ---
@@ -74,7 +74,7 @@
   <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ha-manel&show_icons=true&theme=nightowl&layout=compact"/>
 </div>
 
-<h2>Weekly Coding Stats</h2>
+<!-- <h2>Weekly Coding Stats</h2>
 
 
-[![manel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ha_manel&theme=nightowl&v=2)](https://github.com/anuraghazra/github-readme-stats)
+[![manel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ha_manel&theme=nightowl&v=2)](https://github.com/anuraghazra/github-readme-stats) -->
